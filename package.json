@@ -1,0 +1,13 @@
+{
+  "name": "rabbit-pubsub",
+  "version": "1.0.0",
+  "description": "RabbitMQ PubSub made easy",
+  "main": "index.js",
+  "author": "Adrian Obelmejias<adrian@obel.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^3.0.0",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
