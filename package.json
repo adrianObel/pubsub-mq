@@ -1,6 +1,6 @@
 {
   "name": "pubsub-mq",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "RabbitMQ Pub/Sub made easy",
   "author": "Adrian Obelmejias <adrian@obel.me>",
   "license": "MIT",
@@ -13,7 +13,8 @@
   "repository": "https://github.com/adrianObel/pubsub-mq.git",
   "main": "./dist/index.js",
   "scripts": {
-    "build": "./node_modules/.bin/babel lib/ --out-dir dist/"
+    "build": "./node_modules/.bin/babel lib/ --out-dir dist/",
+    "prepublish": "npm run build"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
