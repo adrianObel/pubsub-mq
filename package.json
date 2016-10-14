@@ -4,16 +4,17 @@
   "description": "RabbitMQ Pub/Sub made easy",
   "author": "Adrian Obelmejias<adrian@obel.me>",
   "license": "MIT",
-  "main": "./dist/index.js",
-  "scripts": {
-    "build": "./node_modules/.bin/babel lib/ --out-dir dist/"
-  },
   "keywords": [
     "RabbitMQ",
     "PubSub",
     "AMQP",
     "amqplib"
   ],
+  "repository": "https://github.com/adrianObel/pubsub-mq.git",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel lib/ --out-dir dist/"
+  },
   "devDependencies": {
     "babel-preset-es2015": "^6.16.0",
     "eslint-config-standard": "^6.2.0",
