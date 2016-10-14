@@ -8,6 +8,12 @@
   "scripts": {
     "build": "./node_modules/.bin/babel lib/ --out-dir dist/"
   },
+  "keywords": [
+    "RabbitMQ",
+    "PubSub",
+    "AMQP",
+    "amqplib"
+  ],
   "devDependencies": {
     "babel-preset-es2015": "^6.16.0",
     "eslint-config-standard": "^6.2.0",
