@@ -1,6 +1,6 @@
 {
   "name": "rabbit-pubsub",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "RabbitMQ PubSub made easy",
   "author": "Adrian Obelmejias<adrian@obel.me>",
   "license": "MIT",
