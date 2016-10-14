@@ -1,8 +1,8 @@
 {
   "name": "pubsub-mq",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "RabbitMQ Pub/Sub made easy",
-  "author": "Adrian Obelmejias<adrian@obel.me>",
+  "author": "Adrian Obelmejias <adrian@obel.me>",
   "license": "MIT",
   "keywords": [
     "RabbitMQ",
